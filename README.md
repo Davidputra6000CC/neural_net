@@ -1,4 +1,4 @@
-# Machine Learning Learning
+# Machine Learning (Neural Network)
 
 Learning machine learning from the ground up through Python, neural networks, automatic differentiation, and language models.
 
